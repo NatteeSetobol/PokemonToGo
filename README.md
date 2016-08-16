@@ -1,39 +1,34 @@
-# node-js-getting-started
+# PokemonToGo
+A simple Pokemon finder that finds pokemon in your current location and gives you the location of a pokemon near by.
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+Requirements Node JS > 0.6
+NPM - Node Packet Manager
 
-## Running Locally
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
+Note: I noticed that npm couldn't install one of the requirements because of a really old version of node so I updated node and it worked fine.
 
-```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
-$ npm install
-$ npm start
-```
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+To Install:
+npm install
 
-## Deploying to Heroku
 
-```
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-or
+Questions and Answers:
+Q: Why didn't you include a map from google maps?
+A: because it's bloated, I wanted to be able to view this on my phone without no lag.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-## Documentation
+Q: Why did you use this when you can use the ingame tracker that will be fixed?
+A: Because it sucks, unless you want to walk in circles like an idiot with your head in your phone and cause mass accidents.
 
-For more information about using Node.js on Heroku, see these Dev Center articles:
 
-- [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
-- [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
-- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-- [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+Q: Is this cheating?
+A: No.
+
+
+Q: is this a Bot?
+A: No.
+
+
+Q: will you ever make this a bot
+A: No.
