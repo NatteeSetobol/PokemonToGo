@@ -3,6 +3,7 @@ A simple Pokemon finder that finds pokemon in your current location and gives yo
 
 
 Requirements Node JS > 0.6
+
 NPM - Node Packet Manager
 
 
@@ -10,6 +11,7 @@ Note: I noticed that npm couldn't install one of the requirements because of a r
 
 
 To Install:
+
 npm install
 
 
@@ -32,3 +34,6 @@ A: No.
 
 Q: will you ever make this a bot
 A: No.
+
+
+Thanks to Armax (https://github.com/Armax/Pokemon-GO-node-api) and the pokemon nodejs community on Discord!
