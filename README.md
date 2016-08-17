@@ -1,6 +1,7 @@
 # PokemonToGo
 A simple Pokemon finder that finds pokemon in your current location and gives you the location of a pokemon near by.
 
+![alt tag](https://github.com/nsetobol/PokemonToGo/blob/master/pokemontogo.png)
 
 Requirements Node JS > 0.6
 
